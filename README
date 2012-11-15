@@ -1,0 +1,15 @@
+# particlefilter
+
+A small project to demonstrate how particle filters work.
+
+Adapted from python code written by Martin J. Laubach.
+
+## Usage
+
+FIXME: write
+
+## License
+
+Copyright (C) 2011 Glen Stampoultzis
+
+Distributed under the Eclipse Public License, the same as Clojure.
